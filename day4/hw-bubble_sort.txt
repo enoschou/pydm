@@ -1,0 +1,3 @@
+實作 bubble sort 演算法
+1. 取代 APCS 成績指標中的 list.sort() or sorted 功能
+2. 比較 bubble sort 與 list.sort() 效能 (以 1,000,000 萬筆以上隨機數據比較)
